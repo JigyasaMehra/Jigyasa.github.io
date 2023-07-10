@@ -454,13 +454,20 @@ margin-right: 100px;
       margin-left: 15px;
       text-align: left;
      }
+  .skills{
+    width:440px;
+  }
      .S h4{
       font-size: 20px;
       text-align: left;
       margin-left: 0px;
      }
+  .c{
+      font-size: 70px;
+     }
      .Contacts{
       background-repeat: repeat-y;
+       width:440px;
      }
      .foot li{
       font-size: 20px;
