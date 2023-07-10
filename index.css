@@ -408,6 +408,7 @@ margin-right: 100px;
   .home{
     height: 1400px;
     width: 440px;
+     background-image: url(phn2.jpg);
   }
     .small{
       margin-left: 30px;
@@ -416,8 +417,12 @@ margin-right: 100px;
     .pt5 {
       margin-left: 30px;
       margin-top: 80px;
-      border-radius: 0%;
-      box-shadow: 1px 2px 40px black;
+      box-shadow: 2px 2px 90px black;
+      border-style: solid;
+      border-color: #000;
+      border-radius: 6px;
+      border-width: 6px;
+      border-color: #404040;
      }
      .Projects{
       width: 440px;
