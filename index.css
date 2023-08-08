@@ -123,12 +123,10 @@ font-family: monospace;
 font-size: 30px;
 }
 .pt5{
-  margin-top: 230px;
-  margin-left: 187px;
-  height: 490px;
-  width: 380px;
-  border-radius: 20px;
-  
+  margin-top: 225px;
+  margin-left: 197px;
+  height: 510px;
+  width: 360px;
 }
 
 @media (max-width: 768px) {
@@ -183,7 +181,7 @@ font-size: 30px;
 }
 
 .exp{
-  background-image: url('pt17.jpg');
+  background-image: url('ex.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   column-width: 180px;
