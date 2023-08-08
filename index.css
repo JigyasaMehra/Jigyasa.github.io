@@ -54,7 +54,6 @@ text-shadow: 1px 1px 1px black;
   //text-shadow: 1px 1px 1px white;
 }
 .head1{
- // margin-bottom: 100px;
   margin-top: 130px;
   margin-left: 280px;
 }
@@ -168,11 +167,10 @@ font-size: 30px;
 .Exp h1{
   color: white;
   font-family: 'Ysabeau SC', sans-serif;
-//  font-family: 'Titan One', cursive;
   text-shadow: 1px 1px 10px #980F5A;
 }
 .Exp{
- //color: white;
+
   height: 900px;
   background-color: white;
   background: rgba(255, 255, 255, 0.05);
